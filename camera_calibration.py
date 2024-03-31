@@ -94,7 +94,7 @@ if __name__ == "__main__":
         f"* Distortion coefficient (k1, k2, p1, p2, k3, ...) = {dist_coeff.flatten()}"
     )
 
-    print("\nIf you want to proceed with lens distortion correction, only press Enter.")
+    print("\nIf you want to proceed with lens distortion correction, press only Enter.")
 
     temp = input()
     if temp:

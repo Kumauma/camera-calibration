@@ -13,3 +13,16 @@ A program that performs simple camera calibration and lens distortion correction
 
 ## Recommendation
 Please take at least 10 images for accurate result values and lens distortion correction.
+
+## Execution Results
+fx = 976.37275504
+<br>fy = 990.95638403
+<br>cx = 940.47875902
+<br>cy = 525.37448011
+<br>rmse = 0.7333029907973493
+
+* <h4>Before correcting lens distortion</h4>
+![image](https://github.com/Kumauma/camera-calibration/assets/51203951/e93fd2e3-dd24-41a6-ad38-a20cc33c0492)
+<br>
+* <h4>After correcting lens distortion</h4>
+![image](https://github.com/Kumauma/camera-calibration/assets/51203951/a1680879-fe3a-4aa4-9670-bc930a289744)
